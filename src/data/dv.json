@@ -1,0 +1,19 @@
+{
+  "todolist": [
+    {
+      "id": "b20df5f7-9357-146a-3672-ae1d020cb2d2",
+      "task": "Revise the lessons",
+      "complete": false
+    },
+    {
+      "id": "d007c8d1-d0b9-0ce8-2a9b-0c3cfca57812",
+      "task": "Learn the flow",
+      "complete": false
+    },
+    {
+      "id": "e3bf4f09-3b53-a81c-321f-fa4618cb8230",
+      "task": "Update function",
+      "complete": false
+    }
+  ]
+}
